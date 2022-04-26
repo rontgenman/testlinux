@@ -1,0 +1,1 @@
+Ok, I more or less understand what git is. I tried github.com and can make some things there. I can operate with git on bash and can commit to the repo via command line. Not bad I guess.
